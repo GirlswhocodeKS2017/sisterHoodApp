@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_color">#13426B</color>
+    <color name="primary_dark_color">#2F1D1A</color>
+    <color name="blue_background">#13426B</color>
+    <color name="category_sisters">#6ACDB1</color>
+    <color name="category_learner">#F93348</color>
+    <color name="category_quest">#FFFF33</color>
+    <color name="category_gwc">#8800A0</color>
+</resources>

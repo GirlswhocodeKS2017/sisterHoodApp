@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ListApp</string>
+    <string name="category_gwc">GWC</string>
+    <string name="category_quest">Essential Questions</string>
+    <string name="category_sisters">Sisters</string>
+    <string name="category_learner">Learner Profile</string>
+</resources>

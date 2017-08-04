@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.gwc.denise.listapp">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity" android:label="Girls Who Code">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".SistersActivity" android:label="My Code Sisters" />
+        <activity android:name=".GWCActivity" android:label="Girls Who Code"/>
+        <activity android:name=".EssentialActivity" android:label="Essential Questions"/>
+        <activity android:name=".LearnerProfileActivity" android:label="Learner Profile"></activity>
+    </application>
+
+</manifest>
